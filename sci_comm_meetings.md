@@ -2,8 +2,8 @@
 
 ## Oct 2026
 
-Advisory Board: 4pm London, Thu 8 Oct
-Scientific Committee: 8am London, Fri 16 Oct
+Advisory Board: 4pm London, Thu 8 Oct\
+Scientific Committee: 8am London, Fri 16 Oct\
 _Although actually the participants were blended for timing purposes_
 
 ### Agenda
@@ -24,12 +24,12 @@ _Although actually the participants were blended for timing purposes_
 * How does PMIP relate to current progress about Machine Learning? There was no definitive answer here, but we need to make space for the discussion.
 
 ### Actions from meeting
-[ ] What is the pitch for including the abrupt-127k paper in the IPCC report? and can you mention this to authors
-[ ] Set up a PMIP WINGS providing a first-look at the abrup-127k results and an update on this content: **Chris**
-[ ] Add all PMIP experiment names to the CMIP7 vocabulary (currently only `abrupt-127k` and `eocene-5x` are there)
-[ ] Progress on PMIP7 Vision paper: **Chris**
-[ ] Consider if you could hold either a subsequent PMIP Conference in ~2029, or a smaller workshop (under a working group) in the coming 3 years.  
-[ ] Organise a PMIP WINGS in January about emulators and ML, with the intention of spinning out an activity: **Myriam**
+- [ ] What is the pitch for including the abrupt-127k paper in the IPCC report? and can you mention this to authors
+- [ ] Set up a PMIP WINGS providing a first-look at the abrup-127k results and an update on this content: **Chris**
+- [ ] Add all PMIP experiment names to the CMIP7 vocabulary (currently only `abrupt-127k` and `eocene-5x` are there)
+- [ ] Progress on PMIP7 Vision paper: **Chris**
+- [ ] Consider if you could hold either a subsequent PMIP Conference in ~2029, or a smaller workshop (under a working group) in the coming 3 years.  
+- [ ] Organise a PMIP WINGS in January about emulators and ML, with the intention of spinning out an activity: **Myriam**
 
 
 ## May 2026
